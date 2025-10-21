@@ -1,8 +1,11 @@
 [
     {
         "name": "ICS Laboratory",
+        "title": "ICS Lab 1",
+        "description":"This is the ICS Laboratory 1, Yipie!",
+        "img":"https://imgsonica.s3.amazonaws.com/wp-content/uploads/2025/05/77200.jpg",
         "lat":"8.35931",
-        "lng":"124.8691",
-        "description":"This is the ICS Laboratory 1, Yipie!"
+        "lng":"124.8691"
+        
     }
 ]
